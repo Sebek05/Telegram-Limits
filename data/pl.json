@@ -84,7 +84,7 @@
                 "icon": "group_add"
             },
             {
-                "name": "Liczba Administratorów",
+                "name": "Liczba administratorów",
                 "hint": "w grupie",
                 "text": "do 50",
                 "icon": "security"
@@ -281,13 +281,13 @@
             {
                 "name": "Liczba folderów",
                 "hint": "",
-                "text": "do 10 sztuk",
+                "text": "do 10 folderów",
                 "icon": "create_new_folder"
             },
             {
                 "name": "Przypięte czaty w folderze",
                 "hint": "",
-                "text": "do 100 sztuk",
+                "text": "do 100 czatów",
                 "icon": "push_pin"
             }
         ]
@@ -361,7 +361,7 @@
             {
                 "name": "Możliwość przekazywania wiadomości",
                 "hint": "",
-                "text": "do 2 000 na godzinę",
+                "text": "do 2000 na godzinę",
                 "icon": "forward_to_inbox"
             },
             {
@@ -398,7 +398,7 @@
             {
                 "name": "Minimalna długość zapytania",
                 "hint": "dla wyszukiwania globalnego",
-                "text": "od 4 znaków",
+                "text": "co najmniej 4 znaki",
                 "icon": "text_rotation_none"
             }
         ]
@@ -417,7 +417,7 @@
             {
                 "name": "Liczba ulubionych naklejek",
                 "hint": "",
-                "text": "do 5 sztuk",
+                "text": "do 5 elementów",
                 "icon": "star"
             },
             {
@@ -429,7 +429,7 @@
             {
                 "name": "Rozmiar naklejki",
                 "hint": "",
-                "text": "512x512 px lub mniej; dokładnie 512x512 px dla animowanej",
+                "text": "jedna strona równa 512px, druga strona 512px lub mniej; dokładnie 512x512px dla animowanej",
                 "icon": "crop_free"
             },
             {
